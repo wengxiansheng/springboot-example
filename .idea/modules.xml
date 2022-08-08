@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/httpclient-send-httpandhttps/httpclient-send-httpandhttps.iml" filepath="$PROJECT_DIR$/httpclient-send-httpandhttps/httpclient-send-httpandhttps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/minio/minio.iml" filepath="$PROJECT_DIR$/minio/minio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operation-sftp/operation-sftp.iml" filepath="$PROJECT_DIR$/operation-sftp/operation-sftp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-cluster/redis-cluster.iml" filepath="$PROJECT_DIR$/redis-cluster/redis-cluster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-sentinel/redis-sentinel.iml" filepath="$PROJECT_DIR$/redis-sentinel/redis-sentinel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resttemplate-send-httpandhttps/resttemplate-send-httpandhttps.iml" filepath="$PROJECT_DIR$/resttemplate-send-httpandhttps/resttemplate-send-httpandhttps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/siginmd5demo/siginmd5demo.iml" filepath="$PROJECT_DIR$/siginmd5demo/siginmd5demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-example.iml" filepath="$PROJECT_DIR$/springboot-example.iml" />
+    </modules>
+  </component>
+</project>
